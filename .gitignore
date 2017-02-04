@@ -1,5 +1,4 @@
-*.pycc
-*~
+*.pyc
 __pycache__
 myenv
 db.sqlite3
