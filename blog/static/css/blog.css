@@ -1,8 +1,9 @@
-h1 a {
+h1, a {
+	font-family:'Playball', cursive;
 	color: #48FF90;
 }
 
-h2 a {
+h2, a {
 	text-align: center;
 	font-family: 'Playball', cursive;
 	color: #48FF90;
@@ -12,6 +13,6 @@ h2 a {
 	padding: 10px 10px 10px 10px;
 }
 
-.post{
-	background-color:#F9FF71;
+.post {
+	background-color: #d8f0f3;
 }
